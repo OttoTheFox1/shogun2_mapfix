@@ -12,4 +12,4 @@ Copy the downloaded dll into that directory and replace the old one. \
 Testing that it works:
 Launch the game with Morning Sun. \
 Load a game with known missing assets (like a new Ming game). \
-Navigate to a far west/east province and ensure all assets appear. \
+Navigate to a far west/east province and ensure all assets appear.
